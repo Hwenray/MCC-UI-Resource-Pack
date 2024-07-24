@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "MCC Server UI Pack",
+      "name": "MCC Server UI Pack",
+      "uuid":"25953b1d-9530-4c59-9de7-f6785215c0cf",
+      "version": [1, 0, 2],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "MCC Server UI Pack",
+        "type": "resources",
+        "uuid": "457f55a3-2573-4e3c-a5db-f7e64b3d43a5",
+        "version": [1, 0, 2]
+      }
+    ]
+   }
